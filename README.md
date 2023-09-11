@@ -1,4 +1,4 @@
-### I'm Mj
+
 
 <!--
 **mirinee22/mirinee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://camo.githubusercontent.com/86468d8b9f59b4137b69a4a2a28787eca8c9eef1060902c31053ed8d02e6e4ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737461727465725f2533452533432d796f755f6c696b652d736b79626c7565)](https://www.youtube.com/watch?v=xm38b3nEFeQ)
+[![](https://img.shields.io/badge/cat-black?style=flat&logo=apachetomcat&logoColor=white)](http://blog.naver.com/storyphoto/viewer.jsp?src=https%3A%2F%2Fblogfiles.pstatic.net%2FMjAyMzA3MTBfODQg%2FMDAxNjg4OTUxNzc2NTAz.7e1EGoyrCHm4MHxrxHb_wXGtWL-X4tFLm8L3yFa9BhIg.nTKC2UAWON8aiHyDzJXPfygB91Nqn39CsWbBDJAUYDUg.JPEG.dmswjd941007%2FKakaoTalk_20230710_095553697_01.jpg)
+
+[![](https://img.shields.io/badge/starter-skyblue)](https://www.youtube.com/watch?v=xm38b3nEFeQ)

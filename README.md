@@ -1,4 +1,4 @@
-### Hi I'm Mj ><
+### I'm Mj
 
 <!--
 **mirinee22/mirinee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
